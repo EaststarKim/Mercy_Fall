@@ -5,7 +5,9 @@
 ## Game screen
 ### Title
 ![title](images/title.png)
+
 Can change skin and background
+
 ![skin1](images/skin1.png)
 ![skin2](images/skin2.png)
 ![back](images/background.png)
