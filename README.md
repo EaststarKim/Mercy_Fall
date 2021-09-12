@@ -7,16 +7,21 @@
 <img src="images/title.png" alt="drawing" width="200"/>
 
 ### Skin & Background
-
-<img src="images/skin1.png" alt="drawing" width="200"/>
-<img src="images/skin2.png" alt="drawing" width="200"/>
-<img src="images/background.png" alt="drawing" width="200"/>
+<p align="center" width="100%">
+	<img src="images/skin1.png" alt="drawing" width="200"/>
+	<img src="images/skin2.png" alt="drawing" width="200"/>
+	<img src="images/background.png" alt="drawing" width="200"/>
+</p>
 
 ### How To
-<img src="images/howto1.png" alt="drawing" width="200"/>
-<img src="images/howto2.png" alt="drawing" width="200"/>
-<img src="images/howto3.png" alt="drawing" width="200"/>
+<p align="center" width="100%">
+	<img src="images/howto1.png" alt="drawing" width="200"/>
+	<img src="images/howto2.png" alt="drawing" width="200"/>
+	<img src="images/howto3.png" alt="drawing" width="200"/>
+</p>
 
 ### Play & Score
-<img src="images/play.png" alt="drawing" width="200"/>
-<img src="images/score.png" alt="drawing" width="200"/>
+<p align="center" width="100%">
+	<img src="images/play.png" alt="drawing" width="200"/>
+	<img src="images/score.png" alt="drawing" width="200"/>
+</p>
