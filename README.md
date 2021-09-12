@@ -16,5 +16,5 @@ Can change skin and background
 ![howto1](images/howto1.png)
 
 ### Play & Score
-![play](play.png)
-![score](score.png)
+![play](images/play.png)
+![score](images/score.png)
