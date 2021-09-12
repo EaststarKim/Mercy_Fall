@@ -6,7 +6,7 @@
 ### Title
 <img src="images/title.png" alt="drawing" width="200"/>
 
-Can change skin and background
+### Skin & Background
 
 <img src="images/skin1.png" alt="drawing" width="200"/>
 <img src="images/skin2.png" alt="drawing" width="200"/>
