@@ -4,19 +4,19 @@
 
 ## Game screen
 ### Title
-![title](images/title.png)
+![title](images/title.png){: width="100%" height="100%"}
 
 Can change skin and background
 
-![skin1](images/skin1.png)
-![skin2](images/skin2.png)
-![back](images/background.png)
+![skin1](images/skin1.png){: width="100%" height="100%"}
+![skin2](images/skin2.png){: width="100%" height="100%"}
+![back](images/background.png){: width="100%" height="100%"}
 
 ### How To
-![howto1](images/howto1.png)
-![howto1](images/howto1.png)
-![howto1](images/howto1.png)
+![howto1](images/howto1.png){: width="100%" height="100%"}
+![howto2](images/howto2.png){: width="100%" height="100%"}
+![howto3](images/howto3.png){: width="100%" height="100%"}
 
 ### Play & Score
-![play](images/play.png)
-![score](images/score.png)
+![play](images/play.png){: width="100%" height="100%"}
+![score](images/score.png){: width="100%" height="100%"}
