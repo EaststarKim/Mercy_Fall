@@ -1,5 +1,5 @@
 # Mercy_Fall
-- [2016 Fall] 정보과학프로젝트2 Final Project
+- [2016 Fall] GSHS 정보과학프로젝트2 Final Project
 - SUBERUNKER-themed game
 
 ## Game screen
